@@ -1,12 +1,68 @@
-# React + Vite
+# BookApp 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BookApp is a React-based online library system built with **Vite** and **Redux**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the deployed version here:
+🔗 [https://Abhay79823.github.io/BookApp/](https://Abhay79823.github.io/BookApp/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ How to Run the Application Locally
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1️⃣ Clone the Repository
+Open your terminal and run:
+
+```sh
+git clone https://github.com/Abhay79823/BookApp.git
+cd BookApp
+```
+
+### 2️⃣ Install Dependencies
+Run the following command to install all required packages:
+
+```sh
+npm install
+```
+
+### 3️⃣ Start the Development Server
+To start the app locally, run:
+
+```sh
+npm run dev
+```
+
+This will start a local development server. The terminal will show a URL (e.g., `http://localhost:5173/`), which you can open in your browser.
+
+### 4️⃣ Build the Application
+To create an optimized production build, run:
+
+```sh
+npm run build
+```
+
+This will generate a `dist/` folder containing the built files.
+
+### 5️⃣ Deploy to GitHub Pages
+To deploy the application to GitHub Pages, run:
+
+```sh
+npm run deploy
+```
+
+---
+
+## 📌 Technologies Used
+- **React 19**  
+- **Redux Toolkit**  
+- **React Router DOM**  
+- **Vite**
+- **CSS**
+  
+
+---
+
+## 📄 License
+This project is open-source and available under the MIT License.
+
+
