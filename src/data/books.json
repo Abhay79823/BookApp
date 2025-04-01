@@ -1,0 +1,209 @@
+{
+    "booksData": [
+      { "title": "The Great Gatsby", 
+        "author": "F. Scott Fitzgerald", 
+        "category": "Fiction", 
+        "poster": "https://books.google.co.in/books/publisher/content?id=WpD_DAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2smY1XG0tjSZpqcsPWGRs18i-NFg&w=1280",
+        "description": "A classic novel that explores themes of wealth, love, and the American Dream in the Jazz Age." 
+      },
+      
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "category": "Fiction",
+        "poster": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
+        "description": "To Kill a Mockingbird is a novel by Harper Lee, first published in 1960. It addresses serious issues like racial inequality, loss of innocence, and moral growth in the fictional town of Maycomb, Alabama."
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "category": "Fiction",
+        "poster": "https://m.media-amazon.com/images/I/41sjzA8EGhL._SY445_SX342_.jpg",
+        "description": "1984 is a dystopian novel by George Orwell, published in 1949. The novel focuses on totalitarianism, surveillance, and the erasure of individual freedoms, depicting a society controlled by the Party under the dictator Big Brother."
+      },
+      {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "category": "Fiction",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg",
+        "description": "Brave New World is a science fiction novel by Aldous Huxley, published in 1932. Set in a future society that uses technology and conditioning to enforce social order, the novel critiques the effects of consumerism, loss of individuality, and state control."
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "category": "Fiction",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/800px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+        "description": "The Catcher in the Rye is a novel by J.D. Salinger, first published in 1951. It follows the story of Holden Caulfield, a disillusioned teenager, as he struggles with the transition from adolescence to adulthood."
+      },
+      {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "category": "Fiction",
+        "poster": "https://img1.od-cdn.com/ImageType-400/5639-1/%7BF38AF393-8861-4731-8487-53FF66CD72F1%7DIMG400.JPG",
+        "description": "Moby-Dick is a novel by Herman Melville, published in 1851. It tells the tale of Captain Ahab’s obsessive quest to kill Moby Dick, the giant white whale, exploring themes of fate, revenge, and the nature of the human soul."
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "category": "Fiction",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/800px-PrideAndPrejudiceTitlePage.jpg",
+        "description": "Pride and Prejudice is a romantic novel by Jane Austen, first published in 1813. It follows Elizabeth Bennet and her interactions with the wealthy and aloof Mr. Darcy, while exploring themes of love, class, and society."
+      },
+      {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "category": "Fiction",
+        "poster": "https://www.crossword.in/cdn/shop/products/9788172234980.jpg?v=1680187071",
+        "description": "The Alchemist is a novel by Paulo Coelho, first published in 1988. It tells the story of Santiago, a shepherd who embarks on a journey to discover his personal legend, exploring themes of destiny, self-discovery, and the pursuit of happiness."
+      },
+      {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "category": "Fiction",
+        "poster": "https://www.lesmurray.org/wp-content/uploads/2020/12/war-and-peace.png",
+        "description": "War and Peace is a historical novel by Leo Tolstoy, first published from 1865 to 1869. It chronicles the impact of the Napoleonic wars on Russian society through the lives of aristocratic families, examining themes of war, peace, and the human condition."
+      },
+      {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "category": "Fiction",
+        "poster": "https://storiesfromtheweb.org/wp-content/uploads/2023/07/The-Hobbit-by-J.R.R.-Tolkien-640x999.jpg",
+        "description": "The Hobbit is a fantasy novel by J.R.R. Tolkien, first published in 1937. It follows the journey of Bilbo Baggins, a hobbit who is thrust into an adventure with dwarves and the wizard Gandalf, ultimately playing a key role in the quest to reclaim a stolen treasure."
+      },
+      {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "category": "Non-Fiction",
+        "poster": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703329310i/23692271.jpg",
+        "description": "Sapiens is a non-fiction book by Yuval Noah Harari, first published in 2011. It traces the history of humanity, from the emergence of Homo sapiens to the present day, examining how biology and history have shaped human societies."
+      },
+      {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "category": "Non-Fiction",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/Educated_%28Tara_Westover%29.png",
+        "description": "Educated is a memoir by Tara Westover, published in 2018. It recounts her journey from growing up in a strict, isolated family in rural Idaho to earning a Ph.D. from the University of Cambridge."
+      },
+      {
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "category": "Non-Fiction",
+        "poster": "https://m.media-amazon.com/images/I/811yGFJMOJL._SL1500_.jpg",
+        "description": "The Immortal Life of Henrietta Lacks by Rebecca Skloot is a biography that explores the life of Henrietta Lacks, whose cells were taken without her knowledge or consent, leading to important scientific discoveries in the field of cell biology."
+      },
+      {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "category": "Non-Fiction",
+        "poster": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377.jpg",
+        "description": "Thinking, Fast and Slow is a book by Daniel Kahneman that examines the two systems of thinking: the fast, intuitive system and the slower, more deliberate one. It explores how these systems shape our decisions and judgments."
+      },
+      {
+        "title": "The Wright Brothers",
+        "author": "David McCullough",
+        "category": "Non-Fiction",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/17/TheWrightBrothers.jpg",
+        "description": "The Wright Brothers by David McCullough tells the story of Wilbur and Orville Wright and their pioneering achievements in aviation, highlighting their perseverance and innovation in the face of skepticism."
+      },
+      {
+        "title": "Born a Crime",
+        "author": "Trevor Noah",
+        "category": "Non-Fiction",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/fd/Born_a_Crime_by_Trevor_Noah_%28book_cover%29.jpg",
+        "description": "Born a Crime is a memoir by Trevor Noah, detailing his experiences growing up in apartheid South Africa. It highlights the challenges he faced as a mixed-race child and the humorous and poignant moments of his childhood."
+      },
+      {
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "category": "Non-Fiction",
+        "poster": "https://m.media-amazon.com/images/I/41RedoldJaL._SX342_SY445_.jpg",
+        "description": "The Power of Habit by Charles Duhigg explores how habits work and how they can be changed, offering insights into how individuals and organizations can harness the power of habit to improve their lives."
+      },
+      {
+        "title": "Guns, Germs, and Steel",
+        "author": "Jared Diamond",
+        "category": "Non-Fiction",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Ggas_human_soc.jpg/200px-Ggas_human_soc.jpg",
+        "description": "Guns, Germs, and Steel is a book by Jared Diamond that explores the factors that led to the rise of Western civilizations, examining how geography, agriculture, and technology shaped human history."
+      },
+      {
+        "title": "The Code Breaker",
+        "author": "Walter Isaacson",
+        "category": "Non-Fiction",
+        "poster": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738154049i/57311854.jpg",
+        "description": "The Code Breaker by Walter Isaacson tells the story of Jennifer Doudna and the discovery of CRISPR, a groundbreaking gene-editing technology that has the potential to transform medicine and biology."
+      },
+      {
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "category": "Non-Fiction",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/BriefHistoryTime.jpg",
+        "description": "A Brief History of Time by Stephen Hawking is a popular science book that explains complex concepts in cosmology, such as the nature of time, black holes, and the Big Bang theory, in an accessible way for the general public."
+      },
+
+    
+      { "title": "Dune", 
+        "author": "Frank Herbert", 
+        "category": "Sci-Fi", 
+        "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Dune-Frank_Herbert_%281965%29_First_edition.jpg",
+         "description": "Dune is a science fiction novel by Frank Herbert, published in 1965. Set on the desert planet Arrakis, the story follows Paul Atreides and his journey to become the ruler of the planet while navigating political intrigue, religion, and ecology."
+      },
+
+  
+      { "title": "The Martian", 
+        "author": "Andy Weir", 
+        "category": "Sci-Fi", 
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Martian_%28Weir_novel%29.jpg/330px-The_Martian_%28Weir_novel%29.jpg" 
+      },
+
+      { "title": "Foundation", 
+        "author": "Isaac Asimov", 
+        "category": "Sci-Fi", 
+        "poster": "https://upload.wikimedia.org/wikipedia/en/d/d9/Foundation_-_Isaac_Asimov_%28Gnome_1951%29.jpg" 
+      },
+
+      { "title": "Neuromancer",
+         "author": "William Gibson", 
+        "category": "Sci-Fi", 
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" 
+      },
+
+      { "title": "Snow Crash", 
+        "author": "Neal Stephenson", 
+        "category": "Sci-Fi", 
+        "poster": "https://upload.wikimedia.org/wikipedia/en/d/d5/Snowcrash.jpg" 
+      },
+
+      { "title": "Hyperion", 
+        "author": "Dan Simmons", 
+        "category": "Sci-Fi", 
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/73/Hyperion_cover.jpg" 
+      },
+
+      { "title": "The Left Hand of Darkness", 
+        "author": "Ursula K. Le Guin", 
+        "category": "Sci-Fi", 
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/88/TheLeftHandOfDarkness1stEd.jpg" 
+      },
+
+      { "title": "Ender's Game", 
+        "author": "Orson Scott Card", 
+        "category": "Sci-Fi", 
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/8c/Ender%27s_Game_poster.jpg" 
+      },
+
+      { "title": "The War of the Worlds", 
+        "author": "H.G. Wells", 
+        "category": "Sci-Fi", 
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_War_of_the_Worlds_first_edition.jpg" 
+      },
+
+      { "title": "Altered Carbon", 
+        "author": "Richard K. Morgan", 
+        "category": "Sci-Fi", 
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/79/Altered_Carbon_cover_1_%28Amazon%29.jpg" 
+      }
+
+    ]
+  }
+  
